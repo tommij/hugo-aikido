@@ -1,0 +1,6 @@
+baseURL = 'https://aiki-do.dk/'
+languageCode = 'da-dk'
+title = 'Aiki-do, amager jiujitsu selvforsvar'
+#theme = 'ananke'
+theme = 'beautifulhugo'
+defaultContentLanguage = "da-dk"
