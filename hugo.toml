@@ -11,6 +11,12 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 
+#required for github hosting
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
 [Services]
   [Services.Disqus]
     # Shortname = "XXX"
