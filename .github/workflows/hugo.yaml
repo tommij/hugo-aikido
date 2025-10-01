@@ -51,9 +51,9 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
-      - name: hugo mod init
+      - name: hugo mod get
         run: |
-          hugo mod init
+          hugo mod get -u
       - name: Build the site
         run: |
           hugo \
