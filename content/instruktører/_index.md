@@ -18,21 +18,22 @@ draft: false
 * Jan Sell
 * Shihan, næstformand & sekretær
 * 6 dan Ju-Jitsu
+* 1 dan Iaido
 * Trænet kampsport siden 1973
-* Aktiv underviser siden 2078
+* Aktiv underviser siden 1978
 
 
 ![Tommi]( tommi.avif "Tommi, Kasserer")
 * Tommi Jensen
 * Sensei & kasserer
 * 1 dan Ju-Jitsu
-* Trænet kampsport siden 2011
+* Trænet kampsport siden 2009
 * Aktiv underviser siden 2020
 
 ![Michel]( michel.avif "Michel, Sempai")
 * Michel Nielsen
 * Sempai
 * 1 Kuy Ju-Jitsu 
-* Trænet kampsport siden 2077
+* Trænet kampsport siden 1977
 * Aktiv underviser siden 2024
 
