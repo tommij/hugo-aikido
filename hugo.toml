@@ -1,7 +1,7 @@
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
 
-baseURL = 'http://www.selvforsvar-amager.dk/'
+baseURL = 'https://www.selvforsvar-amager.dk/'
 languageCode = 'da-dk'
 title = 'jujitsu klubben aiki-do'
 #theme = 'ananke'
