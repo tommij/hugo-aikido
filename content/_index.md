@@ -30,8 +30,12 @@ Formand Kenn Jørgensen
 Telefon: 2099 8966 
 Mail: info@selvforsvar-amager.dk
 
+Eller find os på [Facebook](https://www.facebook.com/kampsportsklub/)
+
 ## Klubtilslutninger og samarbejde:
 
-* Hoku Shin Ko Ryu Ju-jutsu.
+* Hoku Shin Ko Ryu Bu-jutsu
 * [MAAS international](https://maasint.com/) - Martial Arts, all styles
+* [Haslev Jiu-jitsu klub](http://www.haslevjiujitsu.dk/omhaslevjj)
+* [Lundby Budo Klub](https://www.facebook.com/Lundbybudoklub/)
 

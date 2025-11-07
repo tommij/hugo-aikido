@@ -62,11 +62,11 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Tommi Jensen"
+  name = "Jujitsu klubben Aiki-do"
   website = "https://selvforsvar-amager.dk/"
   email = "info@jujitsu-amager.dk"
-  facebook = "hvad-er-vores-facebook-profil"
-  github = "tommij"
+  facebook = "https://www.facebook.com/kampsportsklub/"
+#  github = "tommij"
 #  gitlab = "username"
 #  bitbucket = "username"
 #  twitter = "username"
@@ -75,8 +75,8 @@ pygmentsCodefencesGuessSyntax = true
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
 #  snapchat = "username"
-  instagram = "har-vi-instagram?"
-  youtube = "user/StephanKesting" # or channel/channelname
+#  instagram = "har-vi-instagram?"
+#  youtube = "user/StephanKesting" # or channel/channelname
 #  soundcloud = "username"
 #  spotify = "username"
 #  bandcamp = "username"
