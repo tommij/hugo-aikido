@@ -36,6 +36,7 @@ Eller find os på [Facebook](https://www.facebook.com/kampsportsklub/)
 
 * Hoku Shin Ko Ryu Bu-jutsu
 * [MAAS international](https://maasint.com/) - Martial Arts, all styles
-* [Haslev Jiu-jitsu klub](http://www.haslevjiujitsu.dk/omhaslevjj)
 * [Lundby Budo Klub](https://www.facebook.com/Lundbybudoklub/)
+* [Vallensbæk Ju Jitsu klub](https://www.vjjk.eu/)
+* [Nivå Budoklub](https://nbudo.klub-modul.dk/)
 
