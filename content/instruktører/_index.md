@@ -8,13 +8,15 @@ draft: false
 ---
 
 ![Kenn]( kenn.avif#post-image "Kenn Jørgensen, formand")
+
 * Kenn Jørgensen
 * Sensei & formand
 * 3 dan Ju-Jitsu
 * Trænet kampsport siden 1987
-* Trænet kampsport siden 1993
+* Aktiv underviser siden 1993
 
 ![Jan]( jan.avif "Jan Sell, næstformand")
+
 * Jan Sell
 * Shihan, næstformand & sekretær
 * 6 dan Ju-Jitsu
@@ -22,8 +24,8 @@ draft: false
 * Trænet kampsport siden 1973
 * Aktiv underviser siden 1978
 
-
 ![Tommi]( tommi.avif "Tommi, Kasserer")
+
 * Tommi Jensen
 * Sensei & kasserer
 * 1 dan Ju-Jitsu
@@ -31,9 +33,9 @@ draft: false
 * Aktiv underviser siden 2020
 
 ![Michel]( michel.avif "Michel, Sempai")
+
 * Michel Nielsen
 * Sempai
-* 1 Kuy Ju-Jitsu 
+* 1 Kuy Ju-Jitsu
 * Trænet kampsport siden 1977
 * Aktiv underviser siden 2024
-
