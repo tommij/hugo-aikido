@@ -24,10 +24,17 @@ draft: false
 * Trænet kampsport siden 1973
 * Aktiv underviser siden 1978
 
-![Tommi]( tommi.avif "Tommi, Kasserer")
+![Noa]( noa.png "Noa, Kasserer")
+
+* Noa Sølvblad
+* kasserer
+* 3 kiy Ju-Jitsu
+* Trænet kampsport siden 2023?
+
+![Tommi]( tommi.avif "Tommi, Sensei")
 
 * Tommi Jensen
-* Sensei & kasserer
+* Sensei
 * 1 dan Ju-Jitsu
 * Trænet kampsport siden 2009
 * Aktiv underviser siden 2020
