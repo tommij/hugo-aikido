@@ -24,7 +24,7 @@ draft: false
 * Trænet kampsport siden 1973
 * Aktiv underviser siden 1978
 
-![Noa]( noa.png "Noa, Kasserer")
+![Noa]( missing.jpg "Noa Sølvblad, Kasserer")
 
 * Noa Sølvblad
 * kasserer
