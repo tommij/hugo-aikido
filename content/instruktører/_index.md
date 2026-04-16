@@ -27,9 +27,9 @@ draft: false
 ![Noa]( missing.jpg "Noa Sølvblad, Kasserer")
 
 * Noa Sølvblad
-* kasserer
+* Kasserer
 * 3 kiy Ju-Jitsu
-* Trænet kampsport siden 2023?
+* Trænet kampsport siden 2023
 
 ![Tommi]( tommi.avif "Tommi, Sensei")
 
