@@ -30,7 +30,6 @@ draft: false
 * Kasserer
 * 3 kiy Ju-Jitsu
 * Trænet kampsport siden 2023
-* et eller andet
 
 ![Tommi]( tommi.avif "Tommi, Sensei")
 
