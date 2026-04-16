@@ -63,7 +63,7 @@ pygmentsCodefencesGuessSyntax = true
   website = "yourwebsite.com"
   email = "info@jujitsu-amager.dk"
   facebook = "hvad-er-vores-facebook-profil"
-  github = "tommij"
+#  github = "tommij"
 #  gitlab = "username"
 #  bitbucket = "username"
 #  twitter = "username"
@@ -109,15 +109,14 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    name = "teknikker"
+    url = "teknikker"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    parent = "teknikker"
+    name = "benkast"
+    url = "teknikker/benkast"
     weight = 2
 
 [[menu.main]]

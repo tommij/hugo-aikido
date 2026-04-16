@@ -1,8 +1,9 @@
 +++
 title = 'Benkast'
 date = 2025-07-14T16:57:18+02:00
-draft = true
+draft = false
 +++
+* et par eksempler på benkast teknikker
 
 ** Eksempler på benkast teknikker vi bruger. **
 
