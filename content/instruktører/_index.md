@@ -29,7 +29,7 @@ draft: false
 * Noa Sølvblad
 * Kasserer
 * 3 kiy Ju-Jitsu
-* Trænet kampsport siden 2023
+* Trænet kampsport siden 2020
 
 ![Tommi]( tommi.avif "Tommi, Sensei")
 
