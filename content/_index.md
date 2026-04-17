@@ -41,4 +41,4 @@ Eller find os på [Facebook](https://www.facebook.com/kampsportsklub/)
 * [Nivå Budoklub](https://nbudo.klub-modul.dk/)
 * [BKF Jujutsu](https://www.svenskalag.se/bkfjujutsu)
 * Nan Shin Ryu Kobudo
-* Lunds Internationella Jujutsu- og Kampsportsförening
+* [Lunds Internationella Jujutsu- og Kampsportsförening](lijk.se)
