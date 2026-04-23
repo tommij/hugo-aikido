@@ -14,6 +14,7 @@ draft: false
 * 3 dan Ju-Jitsu
 * Trænet kampsport siden 1987
 * Aktiv underviser siden 1993
+<br>
 
 ![Jan]( jan.avif "Jan Sell, næstformand")
 
@@ -24,7 +25,7 @@ draft: false
 * Trænet kampsport siden 1973
 * Aktiv underviser siden 1978
 
-![Noa]( missing.jpg "Noa Sølvblad, Kasserer")
+![Noa]( noa.avif "Noa Sølvblad, Kasserer")
 
 * Noa Sølvblad
 * Kasserer
