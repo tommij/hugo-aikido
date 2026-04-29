@@ -9,41 +9,51 @@ draft: false
 
 ![Kenn]( kenn.avif#post-image "Kenn Jørgensen, formand")
 
-* Kenn Jørgensen
+## Kenn Jørgensen
 * Sensei & formand
-* 3 dan Ju-Jitsu
+* 3\. dan Ju-Jitsu
 * Trænet kampsport siden 1987
 * Aktiv underviser siden 1993
-<br>
+---
+
 
 ![Jan]( jan.avif "Jan Sell, næstformand")
 
-* Jan Sell
+## Jan Sell
 * Shihan, næstformand & sekretær
-* 6 dan Ju-Jitsu
-* 1 dan Iaido
+* 6\. dan Ju-Jitsu
+* 1\. dan Iaido
 * Trænet kampsport siden 1973
 * Aktiv underviser siden 1978
+---
 
-![Noa]( noa.avif "Noa Sølvblad, Kasserer")
-
-* Noa Sølvblad
-* Kasserer
-* 3 kiy Ju-Jitsu
-* Trænet kampsport siden 2020
 
 ![Tommi]( tommi.avif "Tommi, Sensei")
 
-* Tommi Jensen
+## Tommi Jensen
 * Sensei
-* 1 dan Ju-Jitsu
+* 1\. dan Ju-Jitsu
 * Trænet kampsport siden 2009
 * Aktiv underviser siden 2020
+---
+
 
 ![Michel]( michel.avif "Michel, Sempai")
 
-* Michel Nielsen
+## Michel Nielsen
 * Sempai
-* 1 Kuy Ju-Jitsu
+* 1\. Kyu Ju-Jitsu
 * Trænet kampsport siden 1977
 * Aktiv underviser siden 2024
+---
+
+
+# Andre funktioner i klubben
+<br><br>
+
+![Noa]( noa.avif "Noa Sølvblad, Kasserer")
+
+## Noa Sølvblad
+* Kasserer
+* 7\. kyu Ju-Jitsu
+* Trænet kampsport siden 2020
