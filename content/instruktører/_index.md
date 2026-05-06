@@ -55,5 +55,5 @@ draft: false
 
 ## Noa Sølvblad
 * Kasserer
-* 7\. kyu Ju-Jitsu
+* 4\. kyu Ju-Jitsu
 * Trænet kampsport siden 2020
