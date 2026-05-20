@@ -41,8 +41,8 @@ draft: false
 ![Michel]( michel.avif "Michel, Sempai")
 
 ## Michel Nielsen
-* Sempai
-* 1\. Kyu Ju-Jitsu
+* Sensei
+* 1\. Dan Ju-Jitsu
 * Trænet kampsport siden 1977
 * Aktiv underviser siden 2024
 ---
