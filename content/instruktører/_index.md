@@ -41,7 +41,7 @@ draft: false
 ![Michel]( michel.avif "Michel, Sempai")
 
 ## Michel Nielsen
-* Sensei
+* Sensei, revisor
 * 1\. Dan Ju-Jitsu
 * Trænet kampsport siden 1977
 * Aktiv underviser siden 2024
@@ -55,5 +55,5 @@ draft: false
 
 ## Noa Sølvblad
 * Kasserer
-* 4\. kyu Ju-Jitsu
+* 3\. kyu Ju-Jitsu
 * Trænet kampsport siden 2020
