@@ -28,16 +28,6 @@ draft: false
 ---
 
 
-![Tommi]( tommi.avif "Tommi, Sensei")
-
-## Tommi Jensen
-* Sensei
-* 1\. dan Ju-Jitsu
-* Trænet kampsport siden 2009
-* Aktiv underviser siden 2020
----
-
-
 ![Michel]( michel.avif "Michel, Sempai")
 
 ## Michel Nielsen
