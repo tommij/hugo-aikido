@@ -25,9 +25,9 @@ Hos os kan du træne fra du er 8 år gammel.
 
 Så fat træningstøjet og kom og prøv om det er noget for dig. 
 
-For yderligere information kontakt:
-Formand Kenn Jørgensen
-Telefon: 2099 8966 
+For yderligere information kontakt:\
+Formand Kenn Jørgensen\
+Telefon: [+45 20 99 89 66](tel:+4520998966) \
 Mail: info@selvforsvar-amager.dk
 
 Historien om os:
